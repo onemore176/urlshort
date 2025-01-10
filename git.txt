@@ -1,0 +1,3 @@
+git init
+git config --global user.name "onemore176"
+git config --global user.email "31548754@qq.com"
